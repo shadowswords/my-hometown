@@ -1,7 +1,7 @@
 <html>
 <body>
-	<center><h1>网页版</h1></center><br>
-	<br><h1>刘学警</h1><br>
+	<h2>网页版----刘学警</h2>
+	<br>
 	<h1><center>我的家乡----阳西</center></h1>
 	<br><br>
 <center>
